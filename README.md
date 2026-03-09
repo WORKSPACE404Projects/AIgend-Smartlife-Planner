@@ -15,7 +15,6 @@ AIgend is an open‑source, privacy‑first personal assistant that helps you co
 · Built for Sovereignty
   · Your data stays on your device (localStorage), with optional sync via your own cloud.
   · AI models can run locally (Ollama, WebLLM) or be self‑hosted – no vendor lock‑in.
-  · 100% open source under AGPL‑3.0 – you can audit, fork, and improve every line.
 · Cross‑Platform
   · Web app (Next.js) and native mobile apps via Capacitor (Android/iOS).
   · Works offline, respects your privacy.
